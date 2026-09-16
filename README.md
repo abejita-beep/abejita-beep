@@ -66,5 +66,5 @@ Welcome to my GitHub portfolio! I am a Cybersecurity Professional with hands-on 
 
 ## 📫 How to Reach Me
 * **Email:** pena.sapeg@hotmail.com
-* **Location:** Santo Domingo Este, Dominican Republic
+* **Location:** Santo Domingo, Dominican Republic
 
